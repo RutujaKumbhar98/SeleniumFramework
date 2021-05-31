@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="OrangeHRMDemoTestcases" duration-ms="23480" started-at="2021-05-31T09:33:58 IST" finished-at="2021-05-31T09:34:21 IST">
+  <suite name="OrangeHRMDemoTestcases" duration-ms="24668" started-at="2021-05-31T10:10:44 IST" finished-at="2021-05-31T10:11:09 IST">
     <groups>
     </groups>
-    <test name="LoginTestcases" duration-ms="23480" started-at="2021-05-31T09:33:58 IST" finished-at="2021-05-31T09:34:21 IST">
+    <test name="LoginTestcases" duration-ms="24668" started-at="2021-05-31T10:10:44 IST" finished-at="2021-05-31T10:11:09 IST">
       <class name="QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases">
-        <test-method status="PASS" signature="Init(java.lang.String)[pri:0, instance:QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases@4b4523f8]" name="Init" is-config="true" duration-ms="8357" started-at="2021-05-31T09:33:58 IST" finished-at="2021-05-31T09:34:06 IST">
+        <test-method status="PASS" signature="Init(java.lang.String)[pri:0, instance:QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases@4b4523f8]" name="Init" is-config="true" duration-ms="9046" started-at="2021-05-31T10:10:44 IST" finished-at="2021-05-31T10:10:53 IST">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Init -->
-        <test-method status="PASS" signature="TestLoginWithInValidCrdentials(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases@4b4523f8]" name="TestLoginWithInValidCrdentials" duration-ms="1001" started-at="2021-05-31T09:34:08 IST" data-provider="ProvideInvalidCredentialsFromExcel" finished-at="2021-05-31T09:34:09 IST">
+        <test-method status="PASS" signature="TestLoginWithInValidCrdentials(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases@4b4523f8]" name="TestLoginWithInValidCrdentials" duration-ms="673" started-at="2021-05-31T10:10:55 IST" data-provider="ProvideInvalidCredentialsFromExcel" finished-at="2021-05-31T10:10:55 IST">
           <params>
             <param index="0">
               <value>
@@ -39,7 +39,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestLoginWithInValidCrdentials -->
-        <test-method status="PASS" signature="TestLoginWithInValidCrdentials(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases@4b4523f8]" name="TestLoginWithInValidCrdentials" duration-ms="407" started-at="2021-05-31T09:34:09 IST" data-provider="ProvideInvalidCredentialsFromExcel" finished-at="2021-05-31T09:34:10 IST">
+        <test-method status="PASS" signature="TestLoginWithInValidCrdentials(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases@4b4523f8]" name="TestLoginWithInValidCrdentials" duration-ms="515" started-at="2021-05-31T10:10:55 IST" data-provider="ProvideInvalidCredentialsFromExcel" finished-at="2021-05-31T10:10:56 IST">
           <params>
             <param index="0">
               <value>
@@ -60,7 +60,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestLoginWithInValidCrdentials -->
-        <test-method status="PASS" signature="TestLoginWithInValidCrdentials(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases@4b4523f8]" name="TestLoginWithInValidCrdentials" duration-ms="314" started-at="2021-05-31T09:34:10 IST" data-provider="ProvideInvalidCredentialsFromExcel" finished-at="2021-05-31T09:34:10 IST">
+        <test-method status="PASS" signature="TestLoginWithInValidCrdentials(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases@4b4523f8]" name="TestLoginWithInValidCrdentials" duration-ms="385" started-at="2021-05-31T10:10:56 IST" data-provider="ProvideInvalidCredentialsFromExcel" finished-at="2021-05-31T10:10:56 IST">
           <params>
             <param index="0">
               <value>
@@ -81,7 +81,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestLoginWithInValidCrdentials -->
-        <test-method status="PASS" signature="TestLoginWithInValidCrdentials(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases@4b4523f8]" name="TestLoginWithInValidCrdentials" duration-ms="1190" started-at="2021-05-31T09:34:10 IST" data-provider="ProvideInvalidCredentialsFromExcel" finished-at="2021-05-31T09:34:11 IST">
+        <test-method status="PASS" signature="TestLoginWithInValidCrdentials(java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases@4b4523f8]" name="TestLoginWithInValidCrdentials" duration-ms="1272" started-at="2021-05-31T10:10:56 IST" data-provider="ProvideInvalidCredentialsFromExcel" finished-at="2021-05-31T10:10:57 IST">
           <params>
             <param index="0">
               <value>
@@ -104,7 +104,7 @@
         </test-method> <!-- TestLoginWithInValidCrdentials -->
       </class> <!-- QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases -->
       <class name="QualityKiosksTraining.OrangeHRMTestCases.TestCases.ValidLoginCredentialsTestcase">
-        <test-method status="PASS" signature="Init(java.lang.String)[pri:0, instance:QualityKiosksTraining.OrangeHRMTestCases.TestCases.ValidLoginCredentialsTestcase@6325a3ee]" name="Init" is-config="true" duration-ms="6474" started-at="2021-05-31T09:34:11 IST" finished-at="2021-05-31T09:34:18 IST">
+        <test-method status="PASS" signature="Init(java.lang.String)[pri:0, instance:QualityKiosksTraining.OrangeHRMTestCases.TestCases.ValidLoginCredentialsTestcase@6325a3ee]" name="Init" is-config="true" duration-ms="6684" started-at="2021-05-31T10:10:57 IST" finished-at="2021-05-31T10:11:04 IST">
           <params>
             <param index="0">
               <value>
@@ -115,7 +115,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Init -->
-        <test-method status="PASS" signature="TestLoginWithValidCrdentials()[pri:1, instance:QualityKiosksTraining.OrangeHRMTestCases.TestCases.ValidLoginCredentialsTestcase@6325a3ee]" name="TestLoginWithValidCrdentials" duration-ms="3812" started-at="2021-05-31T09:34:18 IST" finished-at="2021-05-31T09:34:21 IST">
+        <test-method status="PASS" signature="TestLoginWithValidCrdentials()[pri:1, instance:QualityKiosksTraining.OrangeHRMTestCases.TestCases.ValidLoginCredentialsTestcase@6325a3ee]" name="TestLoginWithValidCrdentials" duration-ms="4692" started-at="2021-05-31T10:11:04 IST" finished-at="2021-05-31T10:11:09 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestLoginWithValidCrdentials -->

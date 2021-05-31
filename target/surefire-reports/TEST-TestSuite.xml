@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="26.016" tests="5" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="32.887" tests="5" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="IN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_291\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\Rutuja\AppData\Local\Temp\surefire6433885573857187716\surefirebooter1650447132631834267.jar C:\Users\Rutuja\AppData\Local\Temp\surefire6433885573857187716 2021-05-31T09-33-54_129-jvmRun1 surefire70022918112112139tmp surefire_04318126992362061373tmp"/>
+    <property name="sun.java.command" value="C:\Users\Rutuja\AppData\Local\Temp\surefire8011926037932077071\surefirebooter1892410307514815055.jar C:\Users\Rutuja\AppData\Local\Temp\surefire8011926037932077071 2021-05-31T10-10-38_332-jvmRun1 surefire3424127641678905295tmp surefire_07805278900511604182tmp"/>
     <property name="surefire.test.class.path" value="E:\qualitykioskstraining-master\qualitykioskstraining-master\TestCasesProject\OrangeHRMTestCases\target\test-classes;E:\qualitykioskstraining-master\qualitykioskstraining-master\TestCasesProject\OrangeHRMTestCases\target\classes;C:\Users\Rutuja\.m2\repository\QualityKiosksTraining\AutomationFrameworkAPI\1.0\AutomationFrameworkAPI-1.0.jar;C:\Users\Rutuja\.m2\repository\org\seleniumhq\selenium\selenium-java\3.141.59\selenium-java-3.141.59.jar;C:\Users\Rutuja\.m2\repository\org\seleniumhq\selenium\selenium-api\3.141.59\selenium-api-3.141.59.jar;C:\Users\Rutuja\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\3.141.59\selenium-chrome-driver-3.141.59.jar;C:\Users\Rutuja\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\3.141.59\selenium-edge-driver-3.141.59.jar;C:\Users\Rutuja\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\3.141.59\selenium-firefox-driver-3.141.59.jar;C:\Users\Rutuja\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\3.141.59\selenium-ie-driver-3.141.59.jar;C:\Users\Rutuja\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\3.141.59\selenium-opera-driver-3.141.59.jar;C:\Users\Rutuja\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\3.141.59\selenium-remote-driver-3.141.59.jar;C:\Users\Rutuja\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\3.141.59\selenium-safari-driver-3.141.59.jar;C:\Users\Rutuja\.m2\repository\org\seleniumhq\selenium\selenium-support\3.141.59\selenium-support-3.141.59.jar;C:\Users\Rutuja\.m2\repository\net\bytebuddy\byte-buddy\1.8.15\byte-buddy-1.8.15.jar;C:\Users\Rutuja\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Rutuja\.m2\repository\com\google\guava\guava\25.0-jre\guava-25.0-jre.jar;C:\Users\Rutuja\.m2\repository\com\google\code\findbugs\jsr305\1.3.9\jsr305-1.3.9.jar;C:\Users\Rutuja\.m2\repository\org\checkerframework\checker-compat-qual\2.0.0\checker-compat-qual-2.0.0.jar;C:\Users\Rutuja\.m2\repository\com\google\errorprone\error_prone_annotations\2.1.3\error_prone_annotations-2.1.3.jar;C:\Users\Rutuja\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\Rutuja\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.14\animal-sniffer-annotations-1.14.jar;C:\Users\Rutuja\.m2\repository\com\squareup\okhttp3\okhttp\3.11.0\okhttp-3.11.0.jar;C:\Users\Rutuja\.m2\repository\com\squareup\okio\okio\1.14.0\okio-1.14.0.jar;C:\Users\Rutuja\.m2\repository\org\apache\poi\poi\3.9\poi-3.9.jar;C:\Users\Rutuja\.m2\repository\commons-codec\commons-codec\1.5\commons-codec-1.5.jar;C:\Users\Rutuja\.m2\repository\org\apache\poi\poi-ooxml\3.9\poi-ooxml-3.9.jar;C:\Users\Rutuja\.m2\repository\org\apache\poi\poi-ooxml-schemas\3.9\poi-ooxml-schemas-3.9.jar;C:\Users\Rutuja\.m2\repository\org\apache\xmlbeans\xmlbeans\2.3.0\xmlbeans-2.3.0.jar;C:\Users\Rutuja\.m2\repository\stax\stax-api\1.0.1\stax-api-1.0.1.jar;C:\Users\Rutuja\.m2\repository\dom4j\dom4j\1.6.1\dom4j-1.6.1.jar;C:\Users\Rutuja\.m2\repository\xml-apis\xml-apis\1.0.b2\xml-apis-1.0.b2.jar;C:\Users\Rutuja\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar;C:\Users\Rutuja\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\Rutuja\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Rutuja"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Rutuja\AppData\Local\Temp\surefire6433885573857187716\surefirebooter1650447132631834267.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Rutuja\AppData\Local\Temp\surefire8011926037932077071\surefirebooter1892410307514815055.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_291\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_291\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_291\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -60,9 +60,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="TestLoginWithInValidCrdentials" classname="QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases" time="1.009"/>
-  <testcase name="TestLoginWithInValidCrdentials" classname="QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases" time="0.399"/>
-  <testcase name="TestLoginWithInValidCrdentials" classname="QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases" time="0.314"/>
-  <testcase name="TestLoginWithInValidCrdentials" classname="QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases" time="1.189"/>
-  <testcase name="TestLoginWithValidCrdentials" classname="QualityKiosksTraining.OrangeHRMTestCases.TestCases.ValidLoginCredentialsTestcase" time="3.813"/>
+  <testcase name="TestLoginWithInValidCrdentials" classname="QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases" time="0.684"/>
+  <testcase name="TestLoginWithInValidCrdentials" classname="QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases" time="0.503"/>
+  <testcase name="TestLoginWithInValidCrdentials" classname="QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases" time="0.385"/>
+  <testcase name="TestLoginWithInValidCrdentials" classname="QualityKiosksTraining.OrangeHRMTestCases.TestCases.InvalidLoginTestCases" time="1.273"/>
+  <testcase name="TestLoginWithValidCrdentials" classname="QualityKiosksTraining.OrangeHRMTestCases.TestCases.ValidLoginCredentialsTestcase" time="0"/>
 </testsuite>
