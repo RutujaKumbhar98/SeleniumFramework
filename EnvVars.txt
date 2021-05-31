@@ -1,0 +1,5 @@
+ApplicationURL,https://opensource-demo.orangehrmlive.com/
+FirefoxDriverPath,C:\Users\Rutuja\Desktop\QK\Drivers\geckodriver.exe
+ChromeDriverPath,C:\Users\Rutuja\Desktop\QK\Drivers\chromedriver.exe
+ObjectRepositoriesLocation,E:\qualitykioskstraining-master\qualitykioskstraining-master\TestCasesProject\OrangeHRMTestCases\ObjectRepositories
+DataFilesLocation,E:\qualitykioskstraining-master\qualitykioskstraining-master\TestCasesProject\OrangeHRMTestCases\DataFiles
